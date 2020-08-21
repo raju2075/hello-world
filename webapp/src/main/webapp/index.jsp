@@ -1,3 +1,3 @@
-<h1> Hello, Appu Pappu Savitha !!! </h1>
+<h1> Hello, welcome to future technologies!!! </h1>
 <h2> Deployed first pipeline using Ansible </h2>
-<h3> Om Namah Shivaya Om Lakshmi Venkateshaya Namaha </h3>
+<h3> Have a great future </h3>
